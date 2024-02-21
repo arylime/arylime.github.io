@@ -1,0 +1,43 @@
+#rcorners1  {
+  border-radius: 5px 50px;
+  background: #70926F;
+  padding: 20px;
+  width: 270px;
+  height: 70px;
+}
+
+#rcorners2  {
+  border-radius: 50px;
+  background: #70926F;
+  margin: 0 auto;
+  padding: 20px;
+  width: 400px;
+  height: 75px;
+}
+
+body {
+  background-color: #cdd2b4;
+}
+
+h1  {
+  text-align: center;
+  font-size: 200%;
+}
+
+p  {
+  text-align: center;
+  font-size: 150%;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 33.33%;
+  padding: 60px;
+}
