@@ -24,3 +24,20 @@ p  {
   flex: 33.33%;
   padding: 60px;
 }
+
+#rcorners1  {
+  border-radius: 5px 50px;
+  background: #70926F;
+  padding: 20px;
+  width: 270px;
+  height: 70px;
+}
+
+#rcorners2  {
+  border-radius: 50px;
+  background: #70926F;
+  margin: 0 auto;
+  padding: 20px;
+  width: 400px;
+  height: 75px;
+}
